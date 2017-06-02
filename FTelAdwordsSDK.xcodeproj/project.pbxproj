@@ -8,34 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		52E1879A1EE0159E00C8E68C /* FTelAdwordsSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 52E187981EE0159E00C8E68C /* FTelAdwordsSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		52E187AE1EE015B500C8E68C /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A11EE015B500C8E68C /* ArrayExtension.swift */; };
-		52E187AF1EE015B500C8E68C /* DataExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A21EE015B500C8E68C /* DataExtension.swift */; };
-		52E187B01EE015B500C8E68C /* DictionaryExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A31EE015B500C8E68C /* DictionaryExtension.swift */; };
-		52E187B11EE015B500C8E68C /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A41EE015B500C8E68C /* FontExtension.swift */; };
-		52E187B21EE015B500C8E68C /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A51EE015B500C8E68C /* StringExtension.swift */; };
-		52E187B31EE015B500C8E68C /* UIColorExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A61EE015B500C8E68C /* UIColorExtention.swift */; };
-		52E187B41EE015B500C8E68C /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A71EE015B500C8E68C /* UIImageExtension.swift */; };
-		52E187B51EE015B500C8E68C /* UIVIewExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187A81EE015B500C8E68C /* UIVIewExtention.swift */; };
-		52E187B61EE015B500C8E68C /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187AA1EE015B500C8E68C /* Config.swift */; };
-		52E187B71EE015B500C8E68C /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187AB1EE015B500C8E68C /* Utils.swift */; };
-		52E187B81EE015B500C8E68C /* AdwordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187AD1EE015B500C8E68C /* AdwordsView.swift */; };
+		52E187D31EE1071000C8E68C /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187C61EE1071000C8E68C /* ArrayExtension.swift */; };
+		52E187D41EE1071000C8E68C /* DataExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187C71EE1071000C8E68C /* DataExtension.swift */; };
+		52E187D51EE1071000C8E68C /* DictionaryExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187C81EE1071000C8E68C /* DictionaryExtension.swift */; };
+		52E187D61EE1071000C8E68C /* FontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187C91EE1071000C8E68C /* FontExtension.swift */; };
+		52E187D71EE1071000C8E68C /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187CA1EE1071000C8E68C /* StringExtension.swift */; };
+		52E187D81EE1071000C8E68C /* UIColorExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187CB1EE1071000C8E68C /* UIColorExtention.swift */; };
+		52E187D91EE1071000C8E68C /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187CC1EE1071000C8E68C /* UIImageExtension.swift */; };
+		52E187DA1EE1071000C8E68C /* UIVIewExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187CD1EE1071000C8E68C /* UIVIewExtention.swift */; };
+		52E187DB1EE1071000C8E68C /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187CF1EE1071000C8E68C /* Config.swift */; };
+		52E187DC1EE1071000C8E68C /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187D01EE1071000C8E68C /* Utils.swift */; };
+		52E187DD1EE1071000C8E68C /* AdwordsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E187D21EE1071000C8E68C /* AdwordsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		52E187951EE0159E00C8E68C /* FTelAdwordsSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FTelAdwordsSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52E187981EE0159E00C8E68C /* FTelAdwordsSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FTelAdwordsSDK.h; sourceTree = "<group>"; };
 		52E187991EE0159E00C8E68C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		52E187A11EE015B500C8E68C /* ArrayExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayExtension.swift; sourceTree = "<group>"; };
-		52E187A21EE015B500C8E68C /* DataExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataExtension.swift; sourceTree = "<group>"; };
-		52E187A31EE015B500C8E68C /* DictionaryExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictionaryExtension.swift; sourceTree = "<group>"; };
-		52E187A41EE015B500C8E68C /* FontExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontExtension.swift; sourceTree = "<group>"; };
-		52E187A51EE015B500C8E68C /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
-		52E187A61EE015B500C8E68C /* UIColorExtention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorExtention.swift; sourceTree = "<group>"; };
-		52E187A71EE015B500C8E68C /* UIImageExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
-		52E187A81EE015B500C8E68C /* UIVIewExtention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVIewExtention.swift; sourceTree = "<group>"; };
-		52E187AA1EE015B500C8E68C /* Config.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
-		52E187AB1EE015B500C8E68C /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
-		52E187AD1EE015B500C8E68C /* AdwordsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdwordsView.swift; sourceTree = "<group>"; };
+		52E187C61EE1071000C8E68C /* ArrayExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArrayExtension.swift; sourceTree = "<group>"; };
+		52E187C71EE1071000C8E68C /* DataExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataExtension.swift; sourceTree = "<group>"; };
+		52E187C81EE1071000C8E68C /* DictionaryExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictionaryExtension.swift; sourceTree = "<group>"; };
+		52E187C91EE1071000C8E68C /* FontExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontExtension.swift; sourceTree = "<group>"; };
+		52E187CA1EE1071000C8E68C /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		52E187CB1EE1071000C8E68C /* UIColorExtention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorExtention.swift; sourceTree = "<group>"; };
+		52E187CC1EE1071000C8E68C /* UIImageExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
+		52E187CD1EE1071000C8E68C /* UIVIewExtention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVIewExtention.swift; sourceTree = "<group>"; };
+		52E187CF1EE1071000C8E68C /* Config.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		52E187D01EE1071000C8E68C /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		52E187D21EE1071000C8E68C /* AdwordsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdwordsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +52,6 @@
 		52E1878B1EE0159E00C8E68C = {
 			isa = PBXGroup;
 			children = (
-				52E187A01EE015B500C8E68C /* Extension */,
-				52E187A91EE015B500C8E68C /* Utils */,
-				52E187AC1EE015B500C8E68C /* Views */,
 				52E187971EE0159E00C8E68C /* FTelAdwordsSDK */,
 				52E187961EE0159E00C8E68C /* Products */,
 			);
@@ -71,40 +68,43 @@
 		52E187971EE0159E00C8E68C /* FTelAdwordsSDK */ = {
 			isa = PBXGroup;
 			children = (
+				52E187C51EE1071000C8E68C /* Extension */,
+				52E187CE1EE1071000C8E68C /* Utils */,
+				52E187D11EE1071000C8E68C /* Views */,
 				52E187981EE0159E00C8E68C /* FTelAdwordsSDK.h */,
 				52E187991EE0159E00C8E68C /* Info.plist */,
 			);
 			path = FTelAdwordsSDK;
 			sourceTree = "<group>";
 		};
-		52E187A01EE015B500C8E68C /* Extension */ = {
+		52E187C51EE1071000C8E68C /* Extension */ = {
 			isa = PBXGroup;
 			children = (
-				52E187A11EE015B500C8E68C /* ArrayExtension.swift */,
-				52E187A21EE015B500C8E68C /* DataExtension.swift */,
-				52E187A31EE015B500C8E68C /* DictionaryExtension.swift */,
-				52E187A41EE015B500C8E68C /* FontExtension.swift */,
-				52E187A51EE015B500C8E68C /* StringExtension.swift */,
-				52E187A61EE015B500C8E68C /* UIColorExtention.swift */,
-				52E187A71EE015B500C8E68C /* UIImageExtension.swift */,
-				52E187A81EE015B500C8E68C /* UIVIewExtention.swift */,
+				52E187C61EE1071000C8E68C /* ArrayExtension.swift */,
+				52E187C71EE1071000C8E68C /* DataExtension.swift */,
+				52E187C81EE1071000C8E68C /* DictionaryExtension.swift */,
+				52E187C91EE1071000C8E68C /* FontExtension.swift */,
+				52E187CA1EE1071000C8E68C /* StringExtension.swift */,
+				52E187CB1EE1071000C8E68C /* UIColorExtention.swift */,
+				52E187CC1EE1071000C8E68C /* UIImageExtension.swift */,
+				52E187CD1EE1071000C8E68C /* UIVIewExtention.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
 		};
-		52E187A91EE015B500C8E68C /* Utils */ = {
+		52E187CE1EE1071000C8E68C /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				52E187AA1EE015B500C8E68C /* Config.swift */,
-				52E187AB1EE015B500C8E68C /* Utils.swift */,
+				52E187CF1EE1071000C8E68C /* Config.swift */,
+				52E187D01EE1071000C8E68C /* Utils.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
 		};
-		52E187AC1EE015B500C8E68C /* Views */ = {
+		52E187D11EE1071000C8E68C /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				52E187AD1EE015B500C8E68C /* AdwordsView.swift */,
+				52E187D21EE1071000C8E68C /* AdwordsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,17 +188,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52E187B81EE015B500C8E68C /* AdwordsView.swift in Sources */,
-				52E187B01EE015B500C8E68C /* DictionaryExtension.swift in Sources */,
-				52E187AE1EE015B500C8E68C /* ArrayExtension.swift in Sources */,
-				52E187B61EE015B500C8E68C /* Config.swift in Sources */,
-				52E187B41EE015B500C8E68C /* UIImageExtension.swift in Sources */,
-				52E187B31EE015B500C8E68C /* UIColorExtention.swift in Sources */,
-				52E187B71EE015B500C8E68C /* Utils.swift in Sources */,
-				52E187B21EE015B500C8E68C /* StringExtension.swift in Sources */,
-				52E187B11EE015B500C8E68C /* FontExtension.swift in Sources */,
-				52E187AF1EE015B500C8E68C /* DataExtension.swift in Sources */,
-				52E187B51EE015B500C8E68C /* UIVIewExtention.swift in Sources */,
+				52E187DD1EE1071000C8E68C /* AdwordsView.swift in Sources */,
+				52E187D51EE1071000C8E68C /* DictionaryExtension.swift in Sources */,
+				52E187D31EE1071000C8E68C /* ArrayExtension.swift in Sources */,
+				52E187DB1EE1071000C8E68C /* Config.swift in Sources */,
+				52E187D91EE1071000C8E68C /* UIImageExtension.swift in Sources */,
+				52E187D81EE1071000C8E68C /* UIColorExtention.swift in Sources */,
+				52E187DC1EE1071000C8E68C /* Utils.swift in Sources */,
+				52E187D71EE1071000C8E68C /* StringExtension.swift in Sources */,
+				52E187D61EE1071000C8E68C /* FontExtension.swift in Sources */,
+				52E187D41EE1071000C8E68C /* DataExtension.swift in Sources */,
+				52E187DA1EE1071000C8E68C /* UIVIewExtention.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,6 +361,7 @@
 				52E1879F1EE0159E00C8E68C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

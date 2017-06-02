@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3E3CA0B3B6F224C202D46D8943CE65737796B8EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f72d5f96-d6ae-476a-8c0d-0e2c1f2a71fa" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3E3CA0B3B6F224C202D46D8943CE65737796B8EC" : 9223372036854775807,
+    "f72d5f96-d6ae-476a-8c0d-0e2c1f2a71fa" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2AC9F2B6-C9B3-4304-B55C-BE788345426E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3E3CA0B3B6F224C202D46D8943CE65737796B8EC" : "FTelAdwordsSDK\/",
+    "f72d5f96-d6ae-476a-8c0d-0e2c1f2a71fa" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FTelAdwordsSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FTelAdwordsSDK.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/laidungtr\/fteladwordssdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E3CA0B3B6F224C202D46D8943CE65737796B8EC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/fproject.fpt.vn\/svn\/edm",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f72d5f96-d6ae-476a-8c0d-0e2c1f2a71fa"
+    }
+  ]
+}
