@@ -10,12 +10,12 @@ Pod::Spec.new do |s|
   s.name             = "FTelAdwordsSDK"
   s.summary          = "FTelAdwordsSDK help to place an adwords easy"
   s.version          = "1.0"
-  s.homepage         = "https://bitbucket.org/laidungtr/fteladwordssdk"
+  s.homepage         = "https://github.com/laidungtr/"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "DUNGLAI" => "laidungtr@gmail.com" }
   s.source           = {
-    :git => "https://laidungtr@bitbucket.org/laidungtr/fteladwordssdk.git",
-    :commit => "07cb08c",
+    :git => "https://github.com/laidungtr/FTelAdwordsSDK.git",
+    :commit => "2fcbc481f4b1415c2efc9f10ade02733fba50af9",
     :tag => 1.0
   }
 
